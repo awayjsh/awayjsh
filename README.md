@@ -5,6 +5,7 @@
 [![Linkedin: yourlinkedin](https://img.shields.io/badge/-yourlinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://your-portfolio-url.com)
 
+- 🤖 깃린이 입니당.
 - 👀 I’m interested in ... AI & Bigdata
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
